@@ -113,14 +113,6 @@
   </a>
 </div>
 
-###
-
-
-<img src="https://raw.githubusercontent.com/Vihanga-Gaganatharu/Vihanga-Gaganatharu/output/snake.svg" alt="Snake animation" />
-
-###
-
-
 <h5 align="center">For More Information, Please Check Out or Contact Me Via Linkdin Account<br>😍 Thanks for watching my profile! Have a nice day! 😉<br>© 2023 Thareen</h5>
 
 ###
