@@ -6,8 +6,9 @@
 
 ###
 <div align="center">
-<br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+;Kavindu +Thareen+;Welcome+to+My+Profile!+;Ok.."
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+;Kavindu+Thareen+;Welcome+to+My+Profile!+;Ok..">
+    <br>
 </div>
 
 <div align="center">
@@ -15,7 +16,7 @@
 
 ###
 
-<h6 align="center">This is ME, Kavindu Thareen. First year undergraduate, from Institute of Java Software Engineering<br>Aspiring Front End Software Developer  and a Competitive Programming Enthusiast  ,<br>who is obsessed with the idea of improving himself and wants a platform to grow and excel  .<br> Learning while HOPING & HUSTLING!!! <br><br><br>- 💳 My full name is Vihanga Gagagnatharu<br>- 🏫 I'm currently a 1st year student at Institute of Java Software Engineering<br>- 📚 My major is Game Developer<br>- 🌏 I live in Galle, Sri Lanka<br>- 😅 I'm a newbie in coding, know Java language, MySQL.<br>- 🧐 I'm interested in Coding,,Sleeping,,Playing Video Games and watching tech-based .......<br>- 😎 My quote is "The Best is Yet to Be -Never Give Up"<br>- 👌 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep</h6>
+<h6 align="center">This is ME, Kavindu Thareen First year undergraduate, from Institute of Java Software Engineering<br>Aspiring Front End Software Developer  and a Competitive Programming Enthusiast  ,<br>who is obsessed with the idea of improving himself and wants a platform to grow and excel  .<br> Learning while HOPING & HUSTLING!!! <br><br><br>- 💳 My full name is Vihanga Gagagnatharu<br>- 🏫 I'm currently a 1st year student at Institute of Java Software Engineering<br>- 📚 My major is Game Developer<br>- 🌏 I live in Galle, Sri Lanka<br>- 😅 I'm a newbie in coding, know Java language, MySQL.<br>- 🧐 I'm interested in Coding,,Sleeping,,Playing Video Games and watching tech-based .......<br>- 😎 My quote is "The Best is Yet to Be -Never Give Up"<br>- 👌 Fun fact: have problem 👉 sleep, happy 👉 sleep, sad 👉 sleep ~~ everything 👉 sleep</h6>
 
 ###
 
